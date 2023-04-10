@@ -18,7 +18,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer from California <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🗞️ I have a BA in Economics and BS in Management.
+- 🗞️ I have BA in Economics and BS in Management.
 
 - 💻 I like to write code and solve problems. 
 
